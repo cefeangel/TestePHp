@@ -12,7 +12,8 @@ and open the template in the editor.
     <body>
         <?php
             echo 'Teste Desevolvimento 2'; 
-           
+            echo 'Teste Desevolvimento 2'; 
+            echo 'Teste Desevolvimento 2'; 
             echo 'Teste Desevolvimento 2'; 
         ?>
         <input type="text" >
