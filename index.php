@@ -14,5 +14,6 @@ and open the template in the editor.
             echo 'Teste Desevolvimento 2'; 
             echo 'Teste Desevolvimento 2'; 
         ?>
+        <input type="text" >
     </body>
 </html>
