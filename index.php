@@ -11,8 +11,19 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
             echo 'Teste Desevolvimento 2'; 
             echo 'Teste Desevolvimento 2'; 
+
+            echo 'Teste Bug';
+            
+            
+            echo 'Teste Bug';
+        ?>
+        <?php
+            echo 'Teste Bug';
+            
+
         ?>
     </body>
 </html>
