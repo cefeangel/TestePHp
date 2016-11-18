@@ -13,12 +13,7 @@ and open the template in the editor.
         <?php
             echo 'Teste Bug';
             
-            
-            echo 'Teste Bug';
         ?>
-        <?php
-            echo 'Teste Bug';
-            
-        ?>
+        <input type="text">
     </body>
 </html>
