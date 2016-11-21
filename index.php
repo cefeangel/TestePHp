@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo 'Teste Desevolvimento 2'; 
+            echo 'Teste Desevolvimento 3'; 
         ?>
 
         <a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a>
