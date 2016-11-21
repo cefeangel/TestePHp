@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
             echo 'Teste Desevolvimento 2'; 
         ?>
-        
+
+        <a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a>
     </body>
 </html>
