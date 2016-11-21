@@ -16,5 +16,7 @@ and open the template in the editor.
         ?>
 
         <a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a>
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
     </body>
 </html>
