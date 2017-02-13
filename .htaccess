@@ -12,7 +12,5 @@ php_value date.timezone "America/Sao_Paulo"
 #php_value date.timezone "America/Recife"
 #php_value date.timezone "America/Boa_Vista"
 
-#php_value date.timezone "America/Maceio"
-#php_value date.timezone "America/Manaus"
-#php_value date.timezone "America/Campo_Grande"
+
 #php_value date.timezone "America/Porto_Velho"
