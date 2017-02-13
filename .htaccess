@@ -1,0 +1,18 @@
+
+php_flag display_errors  off
+php_value error_reporting 0
+php_flag log_errors off
+
+#php_value date.timezone "America/Rio_branco"
+#php_value date.timezone "America/Belem"
+#php_value date.timezone "America/Bahia"
+#php_value date.timezone "America/Fortaleza"
+php_value date.timezone "America/Sao_Paulo"
+#php_value date.timezone "America/Cuiaba"
+#php_value date.timezone "America/Recife"
+#php_value date.timezone "America/Boa_Vista"
+#php_value date.timezone "America/Araguaia"
+#php_value date.timezone "America/Maceio"
+#php_value date.timezone "America/Manaus"
+#php_value date.timezone "America/Campo_Grande"
+#php_value date.timezone "America/Porto_Velho"
