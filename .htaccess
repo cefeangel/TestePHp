@@ -3,13 +3,12 @@ php_flag display_errors  off
 php_value error_reporting 0
 php_flag log_errors off
 
-#php_value date.timezone "America/Rio_branco"
-
-#php_value date.timezone "America/Bahia"
-#php_value date.timezone "America/Fortaleza"
 php_value date.timezone "America/Sao_Paulo"
 #php_value date.timezone "America/Cuiaba"
 
 
 
+#php_value date.timezone "America/Porto_Velho"
+#php_value date.timezone "America/Porto_Velho"
+#php_value date.timezone "America/Porto_Velho"
 #php_value date.timezone "America/Porto_Velho"
