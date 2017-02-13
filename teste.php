@@ -9,5 +9,10 @@ MSG;
 echo $txt;
 
 var_dump($c);
+var_dump($c);
+var_dump($c);
+var_dump($c);
+var_dump($c);
+
 
 ?>
