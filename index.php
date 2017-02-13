@@ -30,6 +30,20 @@ echo $base64;
                 }, 'html');
             }
         </script>
+        <script type="text/javascript">
+            var base64 = '<?php echo $base64;?>';
+        
+            function teste(){
+                
+                $.post("receberPost.php", {
+                     base64:base64
+                },
+                     
+                       function (retorno) {
+                            $('#divVerificaSessaoUsuario').html(retorno);
+                }, 'html');
+            }
+        </script>
     </head>
     <body>
         <div id="divVerificaSessaoUsuario">
