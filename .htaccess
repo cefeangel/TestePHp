@@ -9,8 +9,7 @@ php_flag log_errors off
 #php_value date.timezone "America/Fortaleza"
 php_value date.timezone "America/Sao_Paulo"
 #php_value date.timezone "America/Cuiaba"
-#php_value date.timezone "America/Recife"
-#php_value date.timezone "America/Boa_Vista"
+
 
 
 #php_value date.timezone "America/Porto_Velho"
